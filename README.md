@@ -14,7 +14,7 @@ HTML, CSS e Javascript.
 
 ## Imagens
 
-Todos os direitos das imagens dos personagens da Marvel pertence ao ![mad42sam](https://www.deviantart.com/mad42sam) e foram retiradas do site DeviantArt.
+Todos os direitos das imagens dos personagens da Marvel pertence ao [mad42sam](https://www.deviantart.com/mad42sam) e foram retiradas do site DeviantArt.
 
 ## Licença
 
